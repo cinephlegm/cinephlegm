@@ -40,7 +40,7 @@
 
 <p>
 <strong>HALIGTREE</strong><br>
-<sub>Local intelligence across my machines: memory, tools, research, orchestration, and a path toward hardware and robotics.</sub>
+<sub>A persistent intelligence designed to exist across my machines, not inside one chat window: it observes context, remembers, researches, creates and uses tools, controls software and devices, and is being pushed toward vision, voice, sensors, and eventual physical embodiment through robotics.</sub>
 </p>
 
 <p>
@@ -122,7 +122,8 @@
 </p>
 
 <p>
-<strong>3rd Place</strong> · Games 4 Cure 2025
+<a href="https://bwopo.itch.io/ascensionoftheforgotten"><strong>3rd Place</strong></a> · Games 4 Cure 2025<br>
+<sub>Ascension of the Forgotten</sub>
 </p>
 
 <p>
