@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="74" viewBox="0 0 1200 74" role="img" aria-label="GRACE BESTOWED">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5f4b28"/>
+      <stop offset=".5" stop-color="#e7d394"/>
+      <stop offset="1" stop-color="#5f4b28"/>
+      <animate attributeName="x1" values="-1;1;-1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path d="M24 37 H430 C474 37 506 28 536 14" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <path d="M1176 37 H770 C726 37 694 28 664 14" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <path d="M536 14 C552 24 565 31 582 37 M664 14 C648 24 635 31 618 37" fill="none" stroke="#8f7640" stroke-width="1.6"/>
+  <g transform="translate(600 37)" fill="none" stroke="#e7d394" stroke-width="1.8">
+    <path d="M0 -13 C-4 -6 -9 -3 -16 0 C-9 3 -4 6 0 13 C4 6 9 3 16 0 C9 -3 4 -6 0 -13Z"/>
+  </g>
+  <text x="600" y="34" text-anchor="middle" fill="#f4ead0" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="3">GRACE BESTOWED</text>
+  <text x="600" y="56" text-anchor="middle" fill="#8f805e" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">SELECTED AWARDS</text>
+</svg>
