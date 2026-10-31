@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="54" viewBox="0 0 270 54" role="img" aria-label="PORTFOLIO">
+ <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5a4828"/><stop offset=".5" stop-color="#e7d394"/><stop offset="1" stop-color="#5a4828"/><animate attributeName="x1" values="-1;1;-1" dur="5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;2;0" dur="5s" repeatCount="indefinite"/></linearGradient></defs>
+ <rect x="2" y="2" width="266" height="50" rx="14" fill="#0d0b07" stroke="url(#b)" stroke-width="2"><animate attributeName="stroke-opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/></rect>
+ <text x="135" y="33" text-anchor="middle" fill="#ead798" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" letter-spacing="2.5">PORTFOLIO<animate attributeName="fill" values="#bfa35e;#fff1b8;#bfa35e" dur="3.8s" repeatCount="indefinite"/></text>
+ </svg>
