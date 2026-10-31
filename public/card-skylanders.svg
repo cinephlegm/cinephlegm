@@ -14,7 +14,7 @@
       <circle cx="58" cy="36" r="3" fill="#e5d08d" stroke="none"/>
       <ellipse cx="48" cy="57" rx="41" ry="17" stroke="#d8c17b" opacity=".45"><animate attributeName="rx" values="36;43;36" dur="3.2s" repeatCount="indefinite"/></ellipse>
     </g>
-  <text x="570" y="35" text-anchor="middle" fill="#e8d493" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.2" filter="url(#g)">SKYLANDERS / PS3<animate attributeName="fill" values="#b99b56;#f5e3a5;#b99b56" dur="4s" repeatCount="indefinite"/></text>
-  <text x="570" y="62" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">DECOMPILATION · EMULATOR / RUNTIME ANALYSIS</text>
-<text x="570" y="79" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">PLAYER-LIMIT RESEARCH AND PATCHING</text>
+  <text x="500" y="35" text-anchor="middle" fill="#e8d493" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.2" filter="url(#g)">SKYLANDERS / PS3<animate attributeName="fill" values="#b99b56;#f5e3a5;#b99b56" dur="4s" repeatCount="indefinite"/></text>
+  <text x="500" y="62" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">DECOMPILATION · EMULATOR / RUNTIME ANALYSIS</text>
+<text x="500" y="79" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">PLAYER-LIMIT RESEARCH AND PATCHING</text>
 </svg>
