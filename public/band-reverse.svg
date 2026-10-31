@@ -1,28 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="54" viewBox="0 0 1200 54" role="img" aria-label="MODDING / REVERSE ENGINEERING">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-label="MODDING / REVERSE ENGINEERING">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3f321c"/>
-      <stop offset=".42" stop-color="#9f8248"/>
-      <stop offset=".50" stop-color="#f0dc9b"/>
-      <stop offset=".58" stop-color="#9f8248"/>
-      <stop offset="1" stop-color="#3f321c"/>
+      <stop offset="0" stop-color="#3f321c"/><stop offset=".44" stop-color="#9f8248"/><stop offset=".5" stop-color="#f0dc9b"/><stop offset=".56" stop-color="#9f8248"/><stop offset="1" stop-color="#3f321c"/>
       <animate attributeName="x1" values="-1;1;-1" dur="7s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="0;2;0" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="1.4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <path d="M34 27 H438 C475 27 511 22 548 12" fill="none" stroke="url(#g)" stroke-width="2"/>
-  <path d="M1166 27 H762 C725 27 689 22 652 12" fill="none" stroke="url(#g)" stroke-width="2"/>
-  <path d="M548 12 C566 21 579 25 592 27 M652 12 C634 21 621 25 608 27" fill="none" stroke="#8f7540" stroke-width="1.5"/>
-  <g transform="translate(600 27)" fill="none" stroke="#e7d394" stroke-width="1.6" filter="url(#glow)">
-    <path d="M0 -9 C-3 -4 -6 -2 -11 0 C-6 2 -3 4 0 9 C3 4 6 2 11 0 C6 -2 3 -4 0 -9Z">
-      <animateTransform attributeName="transform" type="scale" values="1;1.12;1" dur="3.4s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <text x="600" y="33" text-anchor="middle" fill="#ead798" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.8" filter="url(#glow)">
+  <path d="M34 30 H430 C468 30 500 25 530 18" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <path d="M1166 30 H770 C732 30 700 25 670 18" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <path d="M530 18 C548 25 564 28 578 30 M670 18 C652 25 636 28 622 30" fill="none" stroke="#8f7540" stroke-width="1.4"/>
+  <circle cx="600" cy="8" r="2.4" fill="#e7d394"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="600" y="35" text-anchor="middle" fill="#ead798" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.8" filter="url(#glow)">
     MODDING / REVERSE ENGINEERING
     <animate attributeName="fill" values="#c8ab63;#fff0b8;#c8ab63" dur="4s" repeatCount="indefinite"/>
   </text>
