@@ -40,7 +40,7 @@
 
 <p>
 <strong>HALIGTREE</strong><br>
-<sub>A persistent intelligence designed to exist across my machines, not inside one chat window: it observes context, remembers, researches, creates and uses tools, controls software and devices, and is being pushed toward vision, voice, sensors, and eventual physical embodiment through robotics.</sub>
+<sub>A long-term local AI model built to operate across my machines, maintain persistent memory and context, research independently, create and use tools, control software and devices, and eventually extend into vision, voice, sensors, and robotics.</sub>
 </p>
 
 <p>
