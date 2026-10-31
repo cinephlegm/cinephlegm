@@ -1,142 +1,125 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/haligtree-header.svg" width="100%" alt="CINE — games, systems, AI, modding" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/haligtree-header.svg" width="100%" alt="CINE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=2800&pause=900&color=E7D394&center=true&vCenter=true&width=720&height=34&lines=under+unalloyed+gold;game+systems+%C2%B7+reverse+engineering+%C2%B7+ai+agents;modding+%C2%B7+emulation+%C2%B7+multiplayer+%C2%B7+robotics" alt="Animated focus line" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=2800&pause=900&color=E7D394&center=true&vCenter=true&width=760&height=34&lines=UNDER+UNALLOYED+GOLD;GAME+SYSTEMS+%C2%B7+REVERSE+ENGINEERING+%C2%B7+AI+AGENTS;MODDING+%C2%B7+EMULATION+%C2%B7+MULTIPLAYER+%C2%B7+ROBOTICS" alt="ANIMATED FOCUS LINE" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-stack.svg" width="100%" alt="Arsenal" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-stack.svg" width="100%" alt="ARSENAL" />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CODE-A38B52?style=for-the-badge" height="25" alt="Code" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,py,java,js,ts&theme=dark" height="40" alt="C++, C#, Rust, Python, Java, JavaScript, TypeScript" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/arsenal.svg" width="100%" alt="ARSENAL" />
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-branches.svg" width="100%" alt="THE HALIGTREE" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-haligtree.svg" width="100%" alt="HALIGTREE" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-omoio.svg" width="100%" alt="OMOIO TOGETHER" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-overgrowth.svg" width="100%" alt="OVERGROWTH" />
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-work.svg" width="100%" alt="PUBLIC WORK" />
+
+<div align="center">
+
+<a href="https://github.com/cinephlegm/real-to-sim-reaching-benchmark">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-realsim.svg" width="100%" alt="REAL-TO-SIM REACHING BENCHMARK" />
+</a>
+
+<br>
+
+<a href="https://github.com/cinephlegm/ml-agents-navigation-vs-navmesh">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-navmesh.svg" width="100%" alt="ML-AGENTS NAVIGATION VS NAVMESH" />
+</a>
+
+<br>
+
+<a href="https://github.com/cinephlegm/arins-adventure">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-arins.svg" width="100%" alt="ARIN'S ADVENTURE" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-reverse.svg" width="100%" alt="MODDING / REVERSE ENGINEERING" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-eldenring.svg" width="100%" alt="ELDEN RING" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-tlou2.svg" width="100%" alt="THE LAST OF US PART II REMASTERED" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-skylanders.svg" width="100%" alt="SKYLANDERS / PS3" />
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-grace.svg" width="100%" alt="GRACE BESTOWED" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/award-iec.svg" width="100%" alt="BEST VISION · IEC 2024 SHANGHAI" />
+
+<br>
+
+<a href="https://isaacthebomb360.itch.io/bubble-odyssey">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/award-bubble.svg" width="100%" alt="PLAYER'S CHOICE + 2ND PLACE · GLOBAL GAME JAM 2025 · BUBBLE ODYSSEY" />
+</a>
+
+<br>
+
+<a href="https://josef-muscat.itch.io/lemmingtons">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/award-lemmingtons.svg" width="100%" alt="1ST PLACE · RETRO GAME JAM 2025 · LEMMINGTONS" />
+</a>
+
+<br>
+
+<a href="https://bwopo.itch.io/ascensionoftheforgotten">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/award-ascension.svg" width="100%" alt="3RD PLACE · GAMES 4 CURE 2025 · ASCENSION OF THE FORGOTTEN" />
+</a>
+
+<br>
+
+<a href="https://itch.io/jam/-gamingmalta-x-unity-the-malta-game-jam/rate/4460687">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/award-cinderlink.svg" width="100%" alt="4TH PLACE · UNITY JAM 2026 · CINDERLINK" />
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ENGINES-A38B52?style=for-the-badge" height="25" alt="Engines" />
+<a href="https://cinephlegm.itch.io/">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/button-itch.svg" height="46" alt="ITCH.IO" />
+</a>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" height="40" alt="Unity, Unreal Engine, Blender" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TOOLS-A38B52?style=for-the-badge" height="25" alt="Tools" />
+<a href="https://reclamationdistrict-b2831.web.app/">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/button-portfolio.svg" height="46" alt="PORTFOLIO" />
+</a>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,cmake,gradle,visualstudio,vscode,androidstudio&theme=dark" height="40" alt="Git, GitHub, CMake, Gradle, Visual Studio, VS Code, Android Studio" />
+<a href="https://github.com/cinephlegm?tab=repositories">
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/button-repos.svg" height="46" alt="REPOSITORIES" />
+</a>
 
-<br><br>
-
-<sub>ML-Agents · MediaPipe · FMOD · RPCS3 · Dolphin · Cemu</sub>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-branches.svg" width="100%" alt="The Haligtree" />
-
-<div align="center">
-
-<p>
-<strong>HALIGTREE</strong><br>
-<sub>A long-term local AI model built to operate across my machines, maintain persistent memory and context, research independently, create and use tools, control software and devices, and eventually extend into vision, voice, sensors, and robotics.</sub>
-</p>
-
-<p>
-<strong>Omoio Together</strong><br>
-<sub>Remote multiplayer for emulator-hosted games across PC and phone.</sub>
-</p>
-
-<p>
-<strong>OVERGROWTH</strong><br>
-<sub>A NATURE-BASED EXPLORATION GAME SET IN ABANDONED, OVERGROWN ENVIRONMENTS, WITH A QUIET, LONELY, SLIGHTLY UNEASY ATMOSPHERE BUILT AROUND EXPLORATION AND ENVIRONMENTAL STORYTELLING.</sub>
-</p>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-work.svg" width="100%" alt="Public Work" />
-
-<div align="center">
-
-<p>
-<a href="https://github.com/cinephlegm/real-to-sim-reaching-benchmark"><strong>Real-to-Sim Reaching Benchmark</strong></a><br>
-<sub>Behavioural Cloning and PPO for robotic reaching with Unity ML-Agents, KUKA iiwa7, and SCHUNK SVH.</sub>
-</p>
-
-<p>
-<a href="https://github.com/cinephlegm/ml-agents-navigation-vs-navmesh"><strong>ML-Agents Navigation vs NavMesh</strong></a><br>
-<sub>Raycast-based PPO navigation compared against Unity NavMesh.</sub>
-</p>
-
-<p>
-<a href="https://github.com/cinephlegm/arins-adventure"><strong>Arin's Adventure</strong></a><br>
-<sub>2D C++ adventure game built with raylib and Tiled, with a Windows release.</sub>
-</p>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-reverse.svg" width="100%" alt="Reverse Engineering" />
-
-<div align="center">
-
-<p>
-<strong>Elden Ring</strong><br>
-<sub>native C++ mods · runtime hooks / MinHook · regulation and parameter work</sub>
-</p>
-
-<p>
-<strong>The Last of Us Part II Remastered</strong><br>
-<sub>memory scanning · breakpoints · DLL injection / MinHook · RIP-relative pattern scanning</sub>
-</p>
-
-<p>
-<strong>Skylanders / PS3</strong><br>
-<sub>decompilation · emulator/runtime analysis · player-limit research and patching</sub>
-</p>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-grace.svg" width="100%" alt="Grace Bestowed" />
-
-<div align="center">
-
-<p>
-<strong>Best Vision</strong> · IEC 2024 Shanghai
-</p>
-
-<p>
-<a href="https://isaacthebomb360.itch.io/bubble-odyssey"><strong>Player's Choice + 2nd Place</strong></a> · Global Game Jam 2025<br>
-<sub>Bubble Odyssey</sub>
-</p>
-
-<p>
-<a href="https://josef-muscat.itch.io/lemmingtons"><strong>1st Place</strong></a> · Retro Game Jam 2025<br>
-<sub>Lemmingtons</sub>
-</p>
-
-<p>
-<a href="https://bwopo.itch.io/ascensionoftheforgotten"><strong>3rd Place</strong></a> · Games 4 Cure 2025<br>
-<sub>Ascension of the Forgotten</sub>
-</p>
-
-<p>
-<a href="https://itch.io/jam/-gamingmalta-x-unity-the-malta-game-jam/rate/4460687"><strong>4th Place</strong></a> · Unity Jam 2026<br>
-<sub>Cinderlink</sub>
-</p>
-
-<br>
-
-<a href="https://cinephlegm.itch.io/"><strong>itch.io</strong></a> ·
-<a href="https://reclamationdistrict-b2831.web.app/"><strong>Portfolio</strong></a> ·
-<a href="https://github.com/cinephlegm?tab=repositories"><strong>Repositories</strong></a>
-
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/footer.svg" width="100%" alt="Guided by unalloyed gold" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/footer.svg" width="100%" alt="GUIDED BY UNALLOYED GOLD" />
 
 </div>
