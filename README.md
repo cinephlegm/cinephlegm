@@ -1,6 +1,4 @@
-<pre align="center">
-             C I N E
-</pre>
+<pre align="center">C I N E</pre>
 
 <p align="center">
 <strong>Game Development · Systems · AI · Modding</strong>
