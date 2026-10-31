@@ -6,8 +6,7 @@
     <animate attributeName="x2" values="0;2;0" dur="6s" repeatCount="indefinite"/>
   </linearGradient>
 </defs>
-<path d="M170 23 H340 M660 23 H830" stroke="#5b4827" stroke-width="1.4"/>
-<text x="500" y="28" text-anchor="middle" fill="url(#g)" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" letter-spacing="2">
+<text x="500" y="28" text-anchor="middle" fill="#d9c584" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700" letter-spacing="2">
   GAMES · SYSTEMS · REVERSE ENGINEERING · AI · MODDING · ROBOTICS
   <animate attributeName="opacity" values=".72;1;.72" dur="3.8s" repeatCount="indefinite"/>
 </text>
