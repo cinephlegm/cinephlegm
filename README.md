@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/haligtree-header.svg" width="100%" alt="CINE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=2800&pause=900&color=E7D394&center=true&vCenter=true&width=760&height=34&lines=UNDER+UNALLOYED+GOLD;GAME+SYSTEMS+%C2%B7+REVERSE+ENGINEERING+%C2%B7+AI+AGENTS;MODDING+%C2%B7+EMULATION+%C2%B7+MULTIPLAYER+%C2%B7+ROBOTICS" alt="ANIMATED FOCUS LINE" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/focus-line.svg" width="100%" alt="GAMES · SYSTEMS · REVERSE ENGINEERING · AI · MODDING · ROBOTICS" />
 
 </div>
 
