@@ -36,27 +36,47 @@
 
 <img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-branches.svg" width="100%" alt="The Haligtree" />
 
-### HALIGTREE
-Local intelligence across my machines: memory, tools, research, orchestration, and a path toward hardware and robotics.
+<div align="center">
 
-### Omoio Together
-Remote multiplayer for emulator-hosted games across PC and phone.
+<p>
+<strong>HALIGTREE</strong><br>
+<sub>Local intelligence across my machines: memory, tools, research, orchestration, and a path toward hardware and robotics.</sub>
+</p>
 
-### OVERGROWTH
-Private atmospheric exploration game.
+<p>
+<strong>Omoio Together</strong><br>
+<sub>Remote multiplayer for emulator-hosted games across PC and phone.</sub>
+</p>
+
+<p>
+<strong>OVERGROWTH</strong><br>
+<sub>Private atmospheric exploration game.</sub>
+</p>
+
+</div>
 
 <br>
 
 <img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-work.svg" width="100%" alt="Public Work" />
 
-### [Real-to-Sim Reaching Benchmark](https://github.com/cinephlegm/real-to-sim-reaching-benchmark)
-Behavioural Cloning and PPO for robotic reaching with Unity ML-Agents, KUKA iiwa7, and SCHUNK SVH.
+<div align="center">
 
-### [ML-Agents Navigation vs NavMesh](https://github.com/cinephlegm/ml-agents-navigation-vs-navmesh)
-Raycast-based PPO navigation compared against Unity NavMesh.
+<p>
+<a href="https://github.com/cinephlegm/real-to-sim-reaching-benchmark"><strong>Real-to-Sim Reaching Benchmark</strong></a><br>
+<sub>Behavioural Cloning and PPO for robotic reaching with Unity ML-Agents, KUKA iiwa7, and SCHUNK SVH.</sub>
+</p>
 
-### [Arin's Adventure](https://github.com/cinephlegm/arins-adventure)
-2D C++ adventure game built with raylib and Tiled, with a Windows release.
+<p>
+<a href="https://github.com/cinephlegm/ml-agents-navigation-vs-navmesh"><strong>ML-Agents Navigation vs NavMesh</strong></a><br>
+<sub>Raycast-based PPO navigation compared against Unity NavMesh.</sub>
+</p>
+
+<p>
+<a href="https://github.com/cinephlegm/arins-adventure"><strong>Arin's Adventure</strong></a><br>
+<sub>2D C++ adventure game built with raylib and Tiled, with a Windows release.</sub>
+</p>
+
+</div>
 
 <br>
 
@@ -64,10 +84,20 @@ Raycast-based PPO navigation compared against Unity NavMesh.
 
 <div align="center">
 
-**Elden Ring** · **The Last of Us Part II Remastered** · **Skylanders / PS3**
+<p>
+<strong>Elden Ring</strong><br>
+<sub>native C++ mods · runtime hooks / MinHook · regulation and parameter work</sub>
+</p>
 
-<code>runtime hooks</code> · <code>memory analysis</code> · <code>DLL injection</code> · <code>pattern scanning</code>  
-<code>decompilation</code> · <code>native tooling</code> · <code>parameter editing</code>
+<p>
+<strong>The Last of Us Part II Remastered</strong><br>
+<sub>memory scanning · breakpoints · DLL injection / MinHook · RIP-relative pattern scanning</sub>
+</p>
+
+<p>
+<strong>Skylanders / PS3</strong><br>
+<sub>decompilation · emulator/runtime analysis · player-limit research and patching</sub>
+</p>
 
 </div>
 
@@ -75,17 +105,36 @@ Raycast-based PPO navigation compared against Unity NavMesh.
 
 <img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/band-grace.svg" width="100%" alt="Grace Bestowed" />
 
-- **Best Vision** · IEC 2024 Shanghai
-- **Player's Choice + 2nd Place** · Global Game Jam 2025
-- **1st Place** · Retro Game Jam 2025
-- **3rd Place** · Games 4 Cure 2025
-- **4th Place** · Unity Jam 2026
+<div align="center">
+
+<p>
+<strong>Best Vision</strong> · IEC 2024 Shanghai
+</p>
+
+<p>
+<a href="https://isaacthebomb360.itch.io/bubble-odyssey"><strong>Player's Choice + 2nd Place</strong></a> · Global Game Jam 2025<br>
+<sub>Bubble Odyssey</sub>
+</p>
+
+<p>
+<a href="https://josef-muscat.itch.io/lemmingtons"><strong>1st Place</strong></a> · Retro Game Jam 2025<br>
+<sub>Lemmingtons</sub>
+</p>
+
+<p>
+<strong>3rd Place</strong> · Games 4 Cure 2025
+</p>
+
+<p>
+<a href="https://itch.io/jam/-gamingmalta-x-unity-the-malta-game-jam/rate/4460687"><strong>4th Place</strong></a> · Unity Jam 2026<br>
+<sub>Cinderlink</sub>
+</p>
 
 <br>
 
-<div align="center">
-
-[Portfolio](https://reclamationdistrict-b2831.web.app/) · [Repositories](https://github.com/cinephlegm?tab=repositories)
+<a href="https://cinephlegm.itch.io/"><strong>itch.io</strong></a> ·
+<a href="https://reclamationdistrict-b2831.web.app/"><strong>Portfolio</strong></a> ·
+<a href="https://github.com/cinephlegm?tab=repositories"><strong>Repositories</strong></a>
 
 <img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/footer.svg" width="100%" alt="Guided by unalloyed gold" />
 
