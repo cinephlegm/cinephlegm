@@ -4,9 +4,25 @@
 <strong>Game Development · Systems · AI · Modding</strong>
 </p>
 
-<p align="center">
-<code>C++</code> · <code>C#</code> · <code>Rust</code> · <code>Python</code> · <code>Unity</code> · <code>Unreal Engine</code>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/CODE-A38B52?style=for-the-badge" height="26" alt="Code" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp,cs,rust,py,java,js,ts&theme=dark" height="40" alt="C++, C#, Rust, Python, Java, JavaScript, TypeScript" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ENGINES-A38B52?style=for-the-badge" height="26" alt="Engines" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" height="40" alt="Unity, Unreal Engine, Blender" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TOOLING-A38B52?style=for-the-badge" height="26" alt="Tooling" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,cmake,gradle,visualstudio,vscode,androidstudio&theme=dark" height="40" alt="Git, GitHub, CMake, Gradle, Visual Studio, VS Code, Android Studio" />
+
+</div>
 
 ---
 
