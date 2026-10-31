@@ -10,7 +10,7 @@
       <rect x="-5" y="-2" width="108" height="56" rx="6" fill="none" stroke="#80693b" stroke-width="1.5"/>
       <path d="M0 19 H98" stroke="#e2ca7c" stroke-width="1.7"><animate attributeName="transform" values="translate(0,-12);translate(0,22);translate(0,-12)" dur="3.6s" repeatCount="indefinite"/></path>
     </g>
-  <text x="570" y="35" text-anchor="middle" fill="#e8d493" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.2" filter="url(#g)">THE LAST OF US PART II REMASTERED<animate attributeName="fill" values="#b99b56;#f5e3a5;#b99b56" dur="4s" repeatCount="indefinite"/></text>
-  <text x="570" y="62" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">MEMORY SCANNING · BREAKPOINTS · DLL INJECTION / MINHOOK</text>
-<text x="570" y="79" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">RIP-RELATIVE PATTERN SCANNING</text>
+  <text x="500" y="35" text-anchor="middle" fill="#e8d493" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.2" filter="url(#g)">THE LAST OF US PART II REMASTERED<animate attributeName="fill" values="#b99b56;#f5e3a5;#b99b56" dur="4s" repeatCount="indefinite"/></text>
+  <text x="500" y="62" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">MEMORY SCANNING · BREAKPOINTS · DLL INJECTION / MINHOOK</text>
+<text x="500" y="79" text-anchor="middle" fill="#c1b188" font-family="Arial, Helvetica, sans-serif" font-size="12.7" letter-spacing=".65">RIP-RELATIVE PATTERN SCANNING</text>
 </svg>
