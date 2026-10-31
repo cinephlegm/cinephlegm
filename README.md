@@ -20,15 +20,15 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-haligtree.svg" width="100%" alt="HALIGTREE" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-haligtree-v2.svg" width="100%" alt="HALIGTREE" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-omoio.svg" width="100%" alt="OMOIO TOGETHER" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-omoio-v2.svg" width="100%" alt="OMOIO TOGETHER" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-overgrowth.svg" width="100%" alt="OVERGROWTH" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-overgrowth-v2.svg" width="100%" alt="OVERGROWTH" />
 
 </div>
 
@@ -39,19 +39,19 @@
 <div align="center">
 
 <a href="https://github.com/cinephlegm/real-to-sim-reaching-benchmark">
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-realsim.svg" width="100%" alt="REAL-TO-SIM REACHING BENCHMARK" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-realsim-v2.svg" width="100%" alt="REAL-TO-SIM REACHING BENCHMARK" />
 </a>
 
 <br>
 
 <a href="https://github.com/cinephlegm/ml-agents-navigation-vs-navmesh">
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-navmesh.svg" width="100%" alt="ML-AGENTS NAVIGATION VS NAVMESH" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-navmesh-v2.svg" width="100%" alt="ML-AGENTS NAVIGATION VS NAVMESH" />
 </a>
 
 <br>
 
 <a href="https://github.com/cinephlegm/arins-adventure">
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-arins.svg" width="100%" alt="ARIN'S ADVENTURE" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-arins-v2.svg" width="100%" alt="ARIN'S ADVENTURE" />
 </a>
 
 </div>
@@ -62,15 +62,15 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-eldenring.svg" width="100%" alt="ELDEN RING" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-eldenring-v2.svg" width="100%" alt="ELDEN RING" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-tlou2.svg" width="100%" alt="THE LAST OF US PART II REMASTERED" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-tlou2-v2.svg" width="100%" alt="THE LAST OF US PART II REMASTERED" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-skylanders.svg" width="100%" alt="SKYLANDERS / PS3" />
+<img src="https://raw.githubusercontent.com/cinephlegm/cinephlegm/main/public/card-skylanders-v2.svg" width="100%" alt="SKYLANDERS / PS3" />
 
 </div>
 
