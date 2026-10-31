@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="ARSENAL">
+<defs>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#3b2f1a"/><stop offset=".48" stop-color="#a98b4c"/><stop offset=".52" stop-color="#f2dfa2"/><stop offset="1" stop-color="#3b2f1a"/>
+    <animate attributeName="x1" values="-1;1;-1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="0;2;0" dur="7s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080705"/><stop offset=".5" stop-color="#151109"/><stop offset="1" stop-color="#080705"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect x="3" y="3" width="994" height="384" rx="18" fill="url(#bg)" stroke="url(#border)" stroke-width="2">
+  <animate attributeName="stroke-opacity" values=".55;1;.55" dur="3.8s" repeatCount="indefinite"/>
+</rect>
+
+<path d="M52 340 C100 280 118 224 126 160 C132 106 154 65 198 34 M948 340 C900 280 882 224 874 160 C868 106 846 65 802 34" fill="none" stroke="#6d5831" stroke-width="2" opacity=".48"/>
+<g fill="#e5cf8e">
+  <circle cx="198" cy="34" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="802" cy="34" r="3"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+</g>
+
+<g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+  <text x="500" y="42" fill="#ead798" font-size="22" font-weight="700" letter-spacing="4" filter="url(#glow)">ARSENAL
+    <animate attributeName="fill" values="#c6aa62;#fff0b5;#c6aa62" dur="4s" repeatCount="indefinite"/>
+  </text>
+</g>
+
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+  <text x="500" y="76" fill="#806f4b" font-size="10" letter-spacing="2.2">LANGUAGES</text>
+  <text x="500" y="100" fill="#d2c08c" font-size="14" letter-spacing="1.5">C++   ·   C#   ·   RUST   ·   PYTHON   ·   JAVA   ·   JAVASCRIPT   ·   TYPESCRIPT</text>
+
+  <text x="500" y="136" fill="#806f4b" font-size="10" letter-spacing="2.2">ENGINES / 3D</text>
+  <text x="500" y="160" fill="#d2c08c" font-size="14" letter-spacing="1.5">UNITY   ·   UNREAL ENGINE   ·   BLENDER</text>
+
+  <text x="500" y="196" fill="#806f4b" font-size="10" letter-spacing="2.2">REVERSE ENGINEERING</text>
+  <text x="500" y="220" fill="#f0dda0" font-size="14" letter-spacing="1.25">GHIDRA   ·   CHEAT ENGINE   ·   X64DBG   ·   RECLASS.NET   ·   HXD</text>
+
+  <text x="500" y="256" fill="#806f4b" font-size="10" letter-spacing="2.2">AI / ROBOTICS</text>
+  <text x="500" y="280" fill="#d2c08c" font-size="14" letter-spacing="1.5">ML-AGENTS   ·   MEDIAPIPE</text>
+
+  <text x="500" y="316" fill="#806f4b" font-size="10" letter-spacing="2.2">EMULATION / BUILD / PLATFORM</text>
+  <text x="500" y="340" fill="#d2c08c" font-size="13.5" letter-spacing="1.1">RPCS3   ·   DOLPHIN   ·   CEMU   ·   FMOD   ·   CMAKE   ·   GRADLE   ·   GIT   ·   GITHUB</text>
+  <text x="500" y="365" fill="#9d8e67" font-size="12" letter-spacing="1.1">VISUAL STUDIO   ·   VS CODE   ·   ANDROID STUDIO</text>
+</g>
+
+<g stroke="#e1c979" stroke-width="2" opacity=".72">
+  <path d="M155 211 H845"><animate attributeName="transform" values="translate(0,-13);translate(0,13);translate(0,-13)" dur="5s" repeatCount="indefinite"/></path>
+</g>
+</svg>
