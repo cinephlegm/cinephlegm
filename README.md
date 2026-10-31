@@ -50,7 +50,7 @@
 
 <p>
 <strong>OVERGROWTH</strong><br>
-<sub>Private atmospheric exploration game.</sub>
+<sub>A NATURE-BASED EXPLORATION GAME SET IN ABANDONED, OVERGROWN ENVIRONMENTS, FOCUSED ON EXPLORATION, ATMOSPHERE, AND ENVIRONMENTAL STORYTELLING.</sub>
 </p>
 
 </div>
