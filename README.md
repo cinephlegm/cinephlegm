@@ -1,11 +1,5 @@
 <pre align="center">
-                 ╱╲
-             ╱╲╱  ╲╱╲
-                │
              C I N E
-                │
-             ╲╱╲  ╱╲╱
-                 ╲╱
 </pre>
 
 <p align="center">
