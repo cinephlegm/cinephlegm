@@ -15,11 +15,11 @@
       <path d="M20 68 C42 52 58 35 72 8 M46 45 C31 38 20 28 12 16 M58 31 C73 24 84 15 92 6"/>
       <circle cx="72" cy="8" r="3" fill="#e5d08d" stroke="none"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     </g>
-  <text x="560" y="36" text-anchor="middle" fill="#ecd99b" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.2" filter="url(#g)">
+  <text x="500" y="36" text-anchor="middle" fill="#ecd99b" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="2.2" filter="url(#g)">
     HALIGTREE
     <animate attributeName="fill" values="#c8ab63;#fff0b8;#c8ab63" dur="4.2s" repeatCount="indefinite"/>
   </text>
-  <text x="560" y="63" text-anchor="middle" fill="#b9aa80" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing=".65">A LONG-TERM LOCAL AI MODEL BUILT TO RUN ACROSS MY MACHINES, MAINTAIN MEMORY, RESEARCH, USE TOOLS,</text>
-<text x="560" y="80" text-anchor="middle" fill="#b9aa80" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing=".65">CONTROL SOFTWARE AND DEVICES, AND EVOLVE TOWARD VISION, VOICE, SENSORS, AND ROBOTICS.</text>
+  <text x="500" y="63" text-anchor="middle" fill="#b9aa80" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing=".65">A LONG-TERM LOCAL AI MODEL BUILT TO RUN ACROSS MY MACHINES, MAINTAIN MEMORY, RESEARCH, USE TOOLS,</text>
+<text x="500" y="80" text-anchor="middle" fill="#b9aa80" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing=".65">CONTROL SOFTWARE AND DEVICES, AND EVOLVE TOWARD VISION, VOICE, SENSORS, AND ROBOTICS.</text>
   <circle cx="950" cy="24" r="1.8" fill="#d8c17b"><animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/></circle>
 </svg>
